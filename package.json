@@ -4,7 +4,7 @@
   "description": "",
   "main": "enquire.js",
   "scripts": {
-    "watch:scss": "./node_modules/.bin/sass styles/ --watch"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "wanghao <wanghao@ninghao.net>",
