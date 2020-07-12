@@ -7,6 +7,8 @@
 **演示地址**：[_https://demo.ninghao.net/landrover-ui_](https://demo.ninghao.net/landrover-ui)
 **课程地址**：_https://ninghao.net/package/website_
 
+![演示](https://raw.githubusercontent.com/ninghao/landrover-ui/master/images/landrover-demo.jpg)
+
 ## 准备工具
 
 推荐使用 VSCode 代码编辑器，给编辑器安装一个 [Live Serve 插件](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)。另外我们还会用到命令行工具，macOS 用户可以使用系统自带的终端，Windows 用户可以额外下载安装一个[完整版的 Cmder](https://ninghao.net/video/8068)。
