@@ -1,0 +1,15 @@
+{
+  "name": "landrover-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enquire.js",
+  "scripts": {
+    "watch:scss": "./node_modules/.bin/sass styles/ --watch"
+  },
+  "keywords": [],
+  "author": "wanghao <wanghao@ninghao.net>",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
+}
